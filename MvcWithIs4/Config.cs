@@ -35,10 +35,10 @@ namespace MvcWithIs4
                     AllowedGrantTypes = GrantTypes.Implicit,
 
                     // where to redirect to after login
-                    RedirectUris = { "https://localhost:5002/signin-oidc" },
+                    RedirectUris = { "https://120.78.208.87:8081/signin-oidc" },
                     
                     // where to redirect to after logout
-                    PostLogoutRedirectUris = { "https://localhost:5002/signout-callback-oidc" },
+                    PostLogoutRedirectUris = { "https://120.78.208.87:8081/signout-callback-oidc" },
 
                     //  RequireConsent = true,
 
@@ -57,10 +57,10 @@ namespace MvcWithIs4
                     AllowedGrantTypes = GrantTypes.Implicit,
 
                     // where to redirect to after login
-                    RedirectUris = { "https://localhost:5001/signin-oidc" },
+                    RedirectUris = { "https://120.78.208.87:8080/signin-oidc" },
                     
                     // where to redirect to after logout
-                    PostLogoutRedirectUris = { "https://localhost/signout-callback-oidc" },
+                    PostLogoutRedirectUris = { "https://120.78.208.87:8080/signout-callback-oidc" },
 
                     //  RequireConsent = true,
 

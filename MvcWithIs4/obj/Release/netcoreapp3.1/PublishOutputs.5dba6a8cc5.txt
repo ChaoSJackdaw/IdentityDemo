@@ -5,6 +5,7 @@ E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1
 E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
 E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\icon.jpg
 E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\icon.png
+E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity.jpg
 E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\signin-redirect.js
 E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\signout-redirect.js
 E:\code\projects\Demo\MvcWithIs4\MvcWithIs4\MvcWithIs4\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

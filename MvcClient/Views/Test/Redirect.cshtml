@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>等待<span id="time">3</span>秒，自动跳转到首页，或者点击下方链接</h1>
+<a href="/Home">首页</a>
+
+<script type="text/javascript">
+    $(function () {
+        setTimeout(ChangeTime, 1000);
+    })
+    function ChangeTime() {
+        var time;
+        time = $("#time").text();  
+        time = parseInt(time);
+        time--;
+        if (time <= 0) {
+            window.location.href = "/Home";
+        }
+        else
+        {
+            $("#time").text(time);
+            setTimeout(ChangeTime, 1000);
+        }
+    }
+</script>

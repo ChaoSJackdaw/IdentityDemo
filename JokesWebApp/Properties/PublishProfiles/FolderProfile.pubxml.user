@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\code\projects\Demo\JokesWebApp\JokesWebApp\JokesWebApp\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-08-12T07:16:01.3734279Z;True|2021-08-08T21:58:48.2679435+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="JokesWebApp.Data.ApplicationDbContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-JokesWebApp-92CCF77F-6B10-42E2-894D-A6C9FAFD2E2E%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
